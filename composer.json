@@ -4,11 +4,11 @@
     "keywords": ["yii", "redactor"],
     "require": {
         "php": ">=5.2",
-        "authors": [
-            {
-                "name": "Alexander Makarov"
-            }
-        ],
         "yiisoft/yii": ">=1.1.13"
-    }
+    },
+    "authors": [
+        {
+            "name": "Alexander Makarov"
+        }
+    ]
 }
